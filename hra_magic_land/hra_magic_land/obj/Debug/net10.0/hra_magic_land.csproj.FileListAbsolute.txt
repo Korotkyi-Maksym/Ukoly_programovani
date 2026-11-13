@@ -1,0 +1,15 @@
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\bin\Debug\net10.0\hra_magic_land.exe
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\bin\Debug\net10.0\hra_magic_land.deps.json
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\bin\Debug\net10.0\hra_magic_land.runtimeconfig.json
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\bin\Debug\net10.0\hra_magic_land.dll
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\bin\Debug\net10.0\hra_magic_land.pdb
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magic_land.GeneratedMSBuildEditorConfig.editorconfig
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magic_land.AssemblyInfoInputs.cache
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magic_land.AssemblyInfo.cs
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magic_land.csproj.CoreCompileInputs.cache
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magic_land.dll
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\refint\hra_magic_land.dll
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magic_land.pdb
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magic_land.genruntimeconfig.cache
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\ref\hra_magic_land.dll
+C:\DELTA\PR_2B\cody_s_hodin\hra_magic_land\hra_magic_land\obj\Debug\net10.0\hra_magi.17979918.Up2Date
